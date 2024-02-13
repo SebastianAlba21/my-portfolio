@@ -10,6 +10,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.3.6"
+    "astro": "^4.3.6",
+    "hotkeypad": "0.1.0",
+    "ninja-keys": "1.2.2"
   }
 }
