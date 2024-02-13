@@ -6,7 +6,7 @@
         "email": "sebasttia2169@gmail.com",
         "phone": "+57 3185232648",
         "url": "https://sebastianalbadev.tech",
-        "summary": "Soy un estudiante de último semestre de Ingeniería Multimedia con un fuerte interés en el desarrollo web, especialmente con Javascript. Además, poseo una sólida formación académica en esta disciplina y he adquirido conocimientos en las áreas dedesarrollo Frontend y Backend",
+        "summary": "Estudiante de último semestre en Ingeniería Multimedia, con conocimientos en desarrollo web e inteligecia artificial, especialmente en Javascript y Python. Poseo sólida formación académica en las áreas de Frontend y Backend, con enfoque en la creación de soluciones web innovadoras y eficientes",
         "location": {
             "address": "Carrera 24a #2a-124",
             "postalCode": "70001",
@@ -29,12 +29,24 @@
     },
     "work": [
         {
-            "name": "Freelance",
-            "position": "freelance",
+            "name": "Cappa Marketing",
+            "position": "Contrato de prestación de servicios",
             "url": "https://myincomefunds.com",
             "startDate": "2022-04-12",
-            "endDate": "2022-06-05",
-            "summary": "Trabaje bajo contrato de prestación de servicios en la creación (diseño y desarrollo) de una página web para una empresa de inversiones.",
+            "endDate": "2023-06-05",
+            "summary": "Trabaje bajo contrato de prestación de servicios en la creación (diseño y desarrollo) de páginas web para una empresa de inversiones de Estados Unidos.",
+            "highlights": [
+                "Creador de la página web",
+                "Diseñador de la página web"
+            ]
+        },
+        {
+            "name": "Bronislawa Barabast",
+            "position": "Desarrollador freelance",
+            "url": "https://bronislawabarabast.site",
+            "startDate": "2024-01-20",
+            "endDate": "2024-03-02",
+            "summary": "Se creó una landing page para una fundación dedicada a las ayudas humanitarias, con un diseño responsive y una interfaz amigable para el usuario.",
             "highlights": [
                 "Creador de la página web",
                 "Diseñador de la página web"
@@ -58,13 +70,25 @@
         {
             "institution": "Universidad Autónoma de Occidente",
             "url": "https://www.uao.edu.co/",
-            "area": "Multimedia Engineering",
-            "studyType": "Bachelor",
+            "area": "Ingeniería Multimedia",
+            "studyType": "Pregrado",
             "startDate": "2017-01-16",
             "endDate": "2024-01-16",
             "score": "4.0",
             "courses": [
                 "DB1101 - Basic SQL"
+            ]
+        },
+        {
+            "institution": "Universidad Autónoma de Occidente",
+            "url": "https://www.uao.edu.co/",
+            "area": "Inteligencia Artificial",
+            "studyType": "Especialización",
+            "startDate": "2023-06-16",
+            "endDate": "2025-01-16",
+            "score": "4.0",
+            "courses": [
+                "CS201 - Advanced Algorithms"
             ]
         }
     ],
@@ -267,9 +291,11 @@
             "highlights": [
                 "Diseño Responsive",
                 "Diseño de interfaz",
-                "Desarrollo Web"
+                "Desarrollo Web",
+                "Astro Build"
             ],
-            "url": "https://bronislawabarabast.site"
+            "url": "https://bronislawabarabast.site",
+            "github": "https://github.com/SebastianAlba21/bronislawa-barabast.git"
         },
         {
             "name": "Clone de Netflix",
@@ -279,9 +305,11 @@
                 "Diseño Responsive",
                 "Diseño de interfaz",
                 "Desarrollo Web",
-                "Backend"
+                "Backend",
+                "Next.js"
             ],
-            "url": "https://next13-netflix-g6rywbuzx-sebastianalba21.vercel.app/auth"
+            "url": "https://next13-netflix-g6rywbuzx-sebastianalba21.vercel.app/auth",
+            "github": "https://github.com/SebastianAlba21/next13-netflix.git"
         },
         {
             "name": "Guitar LA",
@@ -290,9 +318,11 @@
             "highlights": [
                 "Vue.js",
                 "Diseño Responsive",
-                "Carrito de compras"
+                "Carrito de compras",
+                "Pinia"
             ],
-            "url": "https://aesthetic-kulfi-b31126.netlify.app/"
+            "url": "https://aesthetic-kulfi-b31126.netlify.app/",
+            "github": "https://github.com/SebastianAlba21/GuitarLA-Cart.git"
         },
         {
             "name": "Cripto Vue",
@@ -304,7 +334,21 @@
                 "Conversión de monedas",
                 "Criptomonedas"
             ],
-            "url": "https://luxury-concha-621d39.netlify.app/"
+            "url": "https://luxury-concha-621d39.netlify.app/",
+            "github": "https://github.com/SebastianAlba21/CriptoVue.git"
+        },
+        {
+            "name": "Global St Market",
+            "isActive": false,
+            "description": "Página web de una empresa de inversiones, con funcionalidades de registro de usuarios.",
+            "highlights": [
+                "WordPress",
+                "Diseño Responsive",
+                "Registro de usuarios",
+                "Backend"
+            ],
+            "url": "https://elegant-ramanujan-3e3b3e.netlify.app/",
+            "github": ""
         }
     ]
 }
