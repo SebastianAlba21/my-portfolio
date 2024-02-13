@@ -266,6 +266,14 @@
                 "Desarrollo Web",
                 "Fullstack"
             ]
+        },
+        {
+            "name": "Python",
+            "level": "Medio",
+            "keywords": [
+                "Inteligencia Artificial",
+                "Backend"
+            ]
         }
     ],
     "languages": [
