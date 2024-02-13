@@ -1,12 +1,12 @@
 {
     "basics": {
         "name": "Juan Sebastián Alba",
-        "label": "Full Stack Developer | Multimedia Engineer",
+        "label": "Desarrollador Web Fullstack | Ingeniero Multimedia",
         "image": "/me.webp",
         "email": "sebasttia2169@gmail.com",
         "phone": "+57 3185232648",
         "url": "https://sebastianalbadev.tech",
-        "summary": "Estudiante de último semestre en Ingeniería Multimedia, con conocimientos en desarrollo web e inteligecia artificial, especialmente en Javascript y Python. Poseo sólida formación académica en las áreas de Frontend y Backend, con enfoque en la creación de soluciones web innovadoras y eficientes",
+        "summary": "Estudiante de último semestre en Ingeniería Multimedia, con conocimientos en desarrollo web e inteligecia artificial, especialmente en Javascript y Python. Poseo sólida formación académica en las áreas de Frontend y Backend, con enfoque en la creación de soluciones web innovadoras y eficientes.",
         "location": {
             "address": "Carrera 24a #2a-124",
             "postalCode": "70001",
@@ -250,6 +250,16 @@
             ]
         },
         {
+            "name": "Vue",
+            "level": "Medio",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        },
+        {
             "name": "WordPress",
             "level": "Medio",
             "keywords": [
@@ -260,12 +270,13 @@
     ],
     "languages": [
         {
-            "language": "Spanish",
-            "fluency": "Native speaker"
+            "language": "Español",
+            "fluency": "Idioma nativo"
         },
         {
-            "language": "English",
-            "fluency": "Advanced"
+            "language": "Inglés",
+            "fluency": "Avanzado",
+            "url": "https://cert.efset.org/tvqYWm"
         }
     ],
     "interests": [
@@ -287,7 +298,7 @@
         {
             "name": "Bronislawa Barabast",
             "isActive": true,
-            "description": "Lading page para una fundación de ayuda a personas de escasos recursos",
+            "description": "Lading page para una fundación de ayuda a personas de escasos recursos.",
             "highlights": [
                 "Diseño Responsive",
                 "Diseño de interfaz",
@@ -300,7 +311,7 @@
         {
             "name": "Clone de Netflix",
             "isActive": false,
-            "description": "Clon de la página de inicio de Netflix, con funcionalidades de reproducción de trailers",
+            "description": "Clon de la página de inicio de Netflix, con funcionalidades de reproducción de trailers.",
             "highlights": [
                 "Diseño Responsive",
                 "Diseño de interfaz",
@@ -347,8 +358,7 @@
                 "Registro de usuarios",
                 "Backend"
             ],
-            "url": "https://elegant-ramanujan-3e3b3e.netlify.app/",
-            "github": ""
+            "url": "https://myincomefunds.com"
         }
     ]
 }
