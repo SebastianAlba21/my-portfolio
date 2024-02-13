@@ -357,6 +357,22 @@
             "github": "https://github.com/SebastianAlba21/CriptoVue.git"
         },
         {
+            "name": "Spotify Clone",
+            "isActive": true,
+            "description": "Clon de la página de inicio de Spotify, con funcionalidades de reproducción de música. Hecho con Astro, React y Svelte.",
+            "highlights": [
+                "React",
+                "Svelte",
+                "Astro",
+                "Zustand",
+                "Tailwind CSS",
+                "Diseño Responsive",
+                "Reproducción de música"
+            ],
+            "url": "https://main--spotify-jsam.netlify.app/",
+            "github": "https://github.com/SebastianAlba21/spotify-clone"
+        },
+        {
             "name": "Global St Market",
             "isActive": false,
             "description": "Página web de una empresa de inversiones, con funcionalidades de registro de usuarios.",
